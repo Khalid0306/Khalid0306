@@ -63,8 +63,6 @@
 
 ## 📊 GitHub Stats
 
-![Khalid0306's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalid0306&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid0306&layout=compact&theme=radical)
 ---
 
