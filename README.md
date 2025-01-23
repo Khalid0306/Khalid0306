@@ -47,12 +47,11 @@
 ## 🔧 Expériences professionnelles  
 
 - **[Suez Digital Solutions]** (Le Vésinet Le Pecq, France) - *Alternant Assistant Chef de Projet (09/2024 - 09/2025)*  
-  - Coordination de projets et suivi des livrables  
   - Analyse des besoins et proposition de solutions adaptées  
-  - Gestion des plannings et collaboration avec les équipes techniques  
+  - Collaboration avec les équipes techniques  
 
 - **[Suez Digital Solutions]** (Le Vésinet Le Pecq, France) - *Stagiaire développeur web (Avril 2024 - Août 2024)*  
-  - Optimisation du traitement de données pour la plateforme VDM (Symfony, Kafka, Docker)  
+  - Optimisation du traitement de données pour la plateforme VDM (Virtual Data Management)  
   - Analyse des performances et recommandations finales  
 
 - **[Overconsulting]** (Paris, France) - *Stagiaire développeur web (Juin 2023 - Août 2023)*  
