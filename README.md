@@ -1,21 +1,20 @@
-# 👋 Salut, je suis Khalid Oumarou Garba !  
+# 👋 Hi, I'm Khalid Oumarou Garba!  
 
-🎯 **À propos de moi**  
-- 🎓 Étudiant en 3ᵉ année du Bachelor **Concepteur et Développeur d'Applications** à l'**ECE Paris**  
-- 🚀 À la recherche d’une alternance de **1 à 2 ans** en **développement web**, disponible à partir de **septembre 2025**  
-- 🌱 Je suis curieux d'apprendre et j'explore actuellement le domaine de la **Data et de l'Intelligence Artificielle**  
-- 🌍 Localisation : Nanterre, France  
-- 📫 Contact : khalidogarba@gmail.com
-- 🌐 Portfolio : [Mon site](https://khalid-og-portfolio.netlify.app/)  
+🎯 **About Me**  
+- 🎓 3rd-year student pursuing a Bachelor's degree in **Application Design and Development** at **ECE Paris**  
+- 🌱 Passionate about learning and currently exploring the field of **Data and Artificial Intelligence**  
+- 🌍 Location: Nanterre, France  
+- 📫 Contact: khalidogarba@gmail.com  
+- 🌐 Portfolio: [My Website](https://khalid-og-portfolio.netlify.app/)  
 
 ---
 
-## 🛠️ Compétences  
+## 🛠️ Skills  
 
 <table>
   <tr>
-    <td><strong>Langages de programmation :</strong></td>
-    <td><strong>Frameworks et outils :</strong></td>
+    <td><strong>Programming Languages:</strong></td>
+    <td><strong>Frameworks & Tools:</strong></td>
   </tr>
   <tr>
     <td>
@@ -41,36 +40,36 @@
   </tr>
 </table>
 
+---
+
+## 🔧 Professional Experience  
+
+- **[Suez Digital Solutions]** (Le Vésinet Le Pecq, France) - *Project Management Assistant Intern (09/2024 - 09/2025)*  
+  - Analyzed business needs and proposed suitable solutions  
+  - Collaborated with technical teams  
+
+- **[Suez Digital Solutions]** (Le Vésinet Le Pecq, France) - *Web Developer Intern (April 2024 - August 2024)*  
+  - Optimized data processing for the VDM (Virtual Data Management) platform  
+  - Performed performance analysis and provided final recommendations  
+
+- **[Overconsulting]** (Paris, France) - *Web Developer Intern (June 2023 - August 2023)*  
+  - Developed an invoicing tool using Docker and Symfony  
+  - Designed modular development and database management  
 
 ---
 
-## 🔧 Expériences professionnelles  
+## 📊 GitHub Stats  
 
-- **[Suez Digital Solutions]** (Le Vésinet Le Pecq, France) - *Alternant Assistant Chef de Projet (09/2024 - 09/2025)*  
-  - Analyse des besoins et proposition de solutions adaptées  
-  - Collaboration avec les équipes techniques  
-
-- **[Suez Digital Solutions]** (Le Vésinet Le Pecq, France) - *Stagiaire développeur web (Avril 2024 - Août 2024)*  
-  - Optimisation du traitement de données pour la plateforme VDM (Virtual Data Management)  
-  - Analyse des performances et recommandations finales  
-
-- **[Overconsulting]** (Paris, France) - *Stagiaire développeur web (Juin 2023 - Août 2023)*  
-  - Création d'un outil de facturation avec Docker et Symfony  
-  - Développement modulaire et gestion de base de données  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid0306&layout=compact&theme=radical)  
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Goals  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid0306&layout=compact&theme=radical)
----
-
-## 🎯 Objectifs  
-
-- 💡 Approfondir mes connaissances en **Data Science** et **Intelligence Artificielle**  
-- 🏆 Contribuer à des projets open-source  
-- 🤝 Collaborer avec des développeurs passionnés  
+- 💡 Deepen my knowledge in **Data Science** and **Artificial Intelligence**  
+- 🏆 Contribute to open-source projects  
+- 🤝 Collaborate with passionate developers  
 
 ---
 
-🚀 **N'hésitez pas à me contacter pour échanger !**  
+🚀 **Feel free to contact me to connect and collaborate!**  
