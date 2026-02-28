@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Khalid Oumarou Garba!  
 
 🎯 **About Me**  
-- 🎓 3rd-year student pursuing a Bachelor's degree in **Application Design and Development** at **ECE Paris**  
-- 🌱 Passionate about learning and currently exploring the field of **Data and Artificial Intelligence**  
+- 🎓 Engineering Student at ESIEA
+- 💻 Passionate about Software Development and Software Architecture
+- 💼 Software Engineer Apprentice at Suez Digital Solutions since 2024.
+- 🌱 Constantly learning and building scalable, well-structured applications.
 - 🌍 Location: Nanterre, France  
 - 📫 Contact: khalidogarba@gmail.com  
 - 🌐 Portfolio: [My Website](https://khalid-og-portfolio.netlify.app/)  
@@ -43,7 +45,7 @@
 
 ## 🔧 Professional Experience  
 
-- **[Suez Digital Solutions]** (Le Vésinet Le Pecq, France) - *Project Management Assistant Intern (09/2024 - 09/2025)*  
+- **[Suez Digital Solutions]** (Le Vésinet Le Pecq, France) - *Project Management Assistant Intern (09/2024 - 09/2026)*  
   - Analyzed business needs and proposed suitable solutions  
   - Collaborated with technical teams  
 
